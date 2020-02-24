@@ -62,8 +62,8 @@ function twd_to_usd($cookie,$csrf){
 	curl_close($ch);
 	return json_decode($x,true);
 }
-echo "#################\n#  @muhtoevill  #\n#   SGB-Team    #\n#  Binary-Team  #\n#################\n";
-echo "DWYOR JANGAN SALAHKAN SAYA BILA TERJADI SESUATU YANG TIDAK MENYENANGKAN\n";
+echo "#################\n#  @Dzikray  #\n#   @HuftCafe    #\n#  DUAAAARRRR_MEMEK  #\n#################\n";
+echo "DUAAAAAAARRRRR MEEEEK SKUG LAH\n";
 echo "Berapa kali: ";
 $loop = trim(fgets(STDIN));
 $file = file_get_contents("cookie.txt");
